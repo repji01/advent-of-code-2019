@@ -24,31 +24,31 @@ All puzzles with solution is listed in following table.
 
 | Day             | Problem statement | Complete solution | Part01 time completed | Part02 time completed |
 | --------------- | --------------- | :---------------: | :---------------: | :---------------: |
-|25|[Cryostasis](https://adventofcode.com/2019/day/25)|[part25.py](part25.py)|13:06:11|13:06:20|
-|24|[Planet of Discord](https://adventofcode.com/2019/day/24)|[part24.py](part24.py)|05:31:59| &gt;24h|
-|23|[Category Six](https://adventofcode.com/2019/day/23)|[part23.py](part23.py)|07:19:14|14:23:43|
-|22|[Slam Shuffle](https://adventofcode.com/2019/day/22)|[part22.py](part22.py)|13:14:53|15:21:31|
-|21|[Springdroid Adventure](https://adventofcode.com/2019/day/21)|[part21.py](part21.py)|06:01:31|06:10:39|
-|20|[Donut Maze](https://adventofcode.com/2019/day/20)|[part20.py](part20.py)|05:47:57|07:45:13|
-|19|[Tractor Beam](https://adventofcode.com/2019/day/19)|[part19.py](part19.py)|05:21:24| &gt;24h|
-|18|[Many-Worlds Interpretation](https://adventofcode.com/2019/day/18)|[part18.py](part18.py)|04:29:35|05:45:39|
-|17|[Set and Forget](https://adventofcode.com/2019/day/17)|[part17.py](part17.py)|05:04:30| &gt;24h|
-|16|[Flawed Frequency Transmission](https://adventofcode.com/2019/day/16)|[part16.py](part16.py)|03:42:58|03:51:34|
-|15|[Oxygen System](https://adventofcode.com/2019/day/15)|[part15.py](part15.py)|06:56:21|07:21:01|
-|14|[Space Stoichiometry](https://adventofcode.com/2019/day/14)|[part14.py](part14.py)|03:30:09|03:34:22|
-|13|[Care Package](https://adventofcode.com/2019/day/13)|[part13.py](part13.py)|05:04:57|12:37:16|
-|12|[The N-Body Problem](https://adventofcode.com/2019/day/12)|[part12.py](part12.py)|05:12:11|06:29:26|
-|11|[Space Police](https://adventofcode.com/2019/day/11)|[part11.py](part11.py)|03:12:03|04:18:03|
-|10|[Monitoring Station](https://adventofcode.com/2019/day/10)|[part10.py](part10.py)|01:36:47|03:01:37|
-| 9|[Sensor Boost](https://adventofcode.com/2019/day/9)|[part09.py](part09.py)|03:35:48|04:30:58|
-| 8|[Space Image Format](https://adventofcode.com/2019/day/8)|[part08.py](part08.py)|06:03:01|06:14:02|
-| 7|[Amplification Circuit](https://adventofcode.com/2019/day/7)|[part07.py](part07.py)|03:28:04|03:29:01|
-| 6|[Universal Orbit Map](https://adventofcode.com/2019/day/6)|[part06.py](part06.py)|03:14:02|03:14:52|
-| 5|[Sunny with a Chance of Asteroids](https://adventofcode.com/2019/day/5)|[part05.py](part05.py)|02:47:41|09:31:12|
-| 4|[Secure Container](https://adventofcode.com/2019/day/4)|[part04.py](part04.py)|00:50:59|01:00:06|
-| 3|[Crossed Wires](https://adventofcode.com/2019/day/3)|[part03.py](part03.py)|02:11:46|02:14:24|
-| 2|[1202 Program Alarm](https://adventofcode.com/2019/day/2)|[part02.py](part02.py)|14:25:36|15:13:25|
-| 1|[The Tyranny of the Rocket Equation](https://adventofcode.com/2019/day/1)|[part01.py](part01.py)|12:07:45|17:02:37|
+|25|[Cryostasis](https://adventofcode.com/2019/day/25)|[day25.py](day25.py)|13:06:11|13:06:20|
+|24|[Planet of Discord](https://adventofcode.com/2019/day/24)|[day24.py](day24.py)|05:31:59| &gt;24h|
+|23|[Category Six](https://adventofcode.com/2019/day/23)|[day23.py](day23.py)|07:19:14|14:23:43|
+|22|[Slam Shuffle](https://adventofcode.com/2019/day/22)|[day22.py](day22.py)|13:14:53|15:21:31|
+|21|[Springdroid Adventure](https://adventofcode.com/2019/day/21)|[day21.py](day21.py)|06:01:31|06:10:39|
+|20|[Donut Maze](https://adventofcode.com/2019/day/20)|[day20.py](day20.py)|05:47:57|07:45:13|
+|19|[Tractor Beam](https://adventofcode.com/2019/day/19)|[day19.py](day19.py)|05:21:24| &gt;24h|
+|18|[Many-Worlds Interpretation](https://adventofcode.com/2019/day/18)|[day18.py](day18.py)|04:29:35|05:45:39|
+|17|[Set and Forget](https://adventofcode.com/2019/day/17)|[day17.py](day17.py)|05:04:30| &gt;24h|
+|16|[Flawed Frequency Transmission](https://adventofcode.com/2019/day/16)|[day16.py](day16.py)|03:42:58|03:51:34|
+|15|[Oxygen System](https://adventofcode.com/2019/day/15)|[day15.py](day15.py)|06:56:21|07:21:01|
+|14|[Space Stoichiometry](https://adventofcode.com/2019/day/14)|[day14.py](day14.py)|03:30:09|03:34:22|
+|13|[Care Package](https://adventofcode.com/2019/day/13)|[day13.py](day13.py)|05:04:57|12:37:16|
+|12|[The N-Body Problem](https://adventofcode.com/2019/day/12)|[day12.py](day12.py)|05:12:11|06:29:26|
+|11|[Space Police](https://adventofcode.com/2019/day/11)|[day11.py](day11.py)|03:12:03|04:18:03|
+|10|[Monitoring Station](https://adventofcode.com/2019/day/10)|[day10.py](day10.py)|01:36:47|03:01:37|
+| 9|[Sensor Boost](https://adventofcode.com/2019/day/9)|[day09.py](day09.py)|03:35:48|04:30:58|
+| 8|[Space Image Format](https://adventofcode.com/2019/day/8)|[day08.py](day08.py)|06:03:01|06:14:02|
+| 7|[Amplification Circuit](https://adventofcode.com/2019/day/7)|[day07.py](day07.py)|03:28:04|03:29:01|
+| 6|[Universal Orbit Map](https://adventofcode.com/2019/day/6)|[day06.py](day06.py)|03:14:02|03:14:52|
+| 5|[Sunny with a Chance of Asteroids](https://adventofcode.com/2019/day/5)|[day05.py](day05.py)|02:47:41|09:31:12|
+| 4|[Secure Container](https://adventofcode.com/2019/day/4)|[day04.py](day04.py)|00:50:59|01:00:06|
+| 3|[Crossed Wires](https://adventofcode.com/2019/day/3)|[day03.py](day03.py)|02:11:46|02:14:24|
+| 2|[1202 Program Alarm](https://adventofcode.com/2019/day/2)|[day02.py](day02.py)|14:25:36|15:13:25|
+| 1|[The Tyranny of the Rocket Equation](https://adventofcode.com/2019/day/1)|[day01.py](day01.py)|12:07:45|17:02:37|
 
 Output of execution script for all 25 days
 ---------------
