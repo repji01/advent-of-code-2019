@@ -24,8 +24,8 @@ All puzzles with solution is listed in following table.
 
 | Day             | Problem statement | Complete solution | Part01 time completed | Part02 time completed |
 | --------------- | --------------- | :---------------: | :---------------: | :---------------: |
-|25|[from utils impor](https://adventofcode.com/2019/day/25)|[part25.py](part25.py)|13:06:11|13:06:20|
-|24|[from utils impor](https://adventofcode.com/2019/day/24)|[part24.py](part24.py)|05:31:59| &gt;24h|
+|25|[Cryostasis](https://adventofcode.com/2019/day/25)|[part25.py](part25.py)|13:06:11|13:06:20|
+|24|[Planet of Discord](https://adventofcode.com/2019/day/24)|[part24.py](part24.py)|05:31:59| &gt;24h|
 |23|[Category Six](https://adventofcode.com/2019/day/23)|[part23.py](part23.py)|07:19:14|14:23:43|
 |22|[Slam Shuffle](https://adventofcode.com/2019/day/22)|[part22.py](part22.py)|13:14:53|15:21:31|
 |21|[Springdroid Adventure](https://adventofcode.com/2019/day/21)|[part21.py](part21.py)|06:01:31|06:10:39|
